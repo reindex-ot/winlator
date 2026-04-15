@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="screen_size_entries">
-        <item>Custom</item>
+        <item>カスタム</item>
         <item>640x480 (4:3)</item>
         <item>800x600 (4:3)</item>
         <item>854x480 (16:9)</item>
@@ -75,7 +75,7 @@
         <item>0.2.9</item>
     </string-array>
     <string-array name="dinput_mapper_type_entries">
-        <item>Standard (Old Gamepads)</item>
+        <item>標準 (古いゲームパッド)</item>
         <item>XInput</item>
     </string-array>
     <string-array name="desktop_theme_entries">
@@ -83,11 +83,11 @@
         <item>ダーク</item>
     </string-array>
     <string-array name="desktop_background_type_entries">
-        <item>Image</item>
+        <item>画像</item>
         <item>Solid Color</item>
     </string-array>
     <string-array name="startup_selection_entries">
-        <item>Normal (Load all services)</item>
+        <item>通常 (すべてのサービスを読み込み)</item>
         <item>Essential (Load only essential services)</item>
         <item>Aggressive (Stop services on startup)</item>
     </string-array>
